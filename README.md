@@ -1,6 +1,6 @@
 # 🔍 Vector Space Information Retrieval System
 
-> A comprehensive Search Engine and Indexing system implementing the Vector Space Model, Positional Indexing with PySpark, and Ranked Retrieval using Cosine Similarity.
+> A comprehensive Search Engine and Indexing system implementing the Vector Space Model, Positional Indexing with PySpark, and Ranked Retrieval using Cosine Similarity .
 
 ## 📌 Overview
 
